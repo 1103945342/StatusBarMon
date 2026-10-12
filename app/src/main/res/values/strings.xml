@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">状态栏监控</string>
+    <string name="module_description">在状态栏实时显示 CPU 使用率、频率、内存占用与电池温度</string>
+</resources>
